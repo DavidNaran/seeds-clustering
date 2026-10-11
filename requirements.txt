@@ -1,0 +1,8 @@
+# Versiones con las que se ha vuelto a ejecutar y comprobar el notebook
+numpy==2.2.5
+pandas==2.2.3
+scipy==1.15.2
+scikit-learn==1.6.1
+matplotlib==3.10.1
+seaborn==0.13.2
+notebook
